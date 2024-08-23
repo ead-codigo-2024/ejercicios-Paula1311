@@ -1,0 +1,36 @@
+body {
+    font-family: Georgia, sans-serif;
+    background-color: rgb(201, 248, 243);
+    margin: 7%;
+    padding: 10%;
+    
+}
+
+
+h1, h2, h3 {
+    color: #a50993;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:50px;
+}
+
+
+p {
+    line-height: 1.6;
+    color: #1761e0;
+    font-size:24px;
+    
+}
+
+
+a {
+    color: #064b07;
+    text-decoration: none;
+    font-size:24px;
+}
+
+li {
+    color: #a369a7;
+    font-size:24px;
+    line-height: 1.6;
+}
